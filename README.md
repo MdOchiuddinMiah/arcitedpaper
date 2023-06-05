@@ -1,1 +1,1 @@
-# arcitedpaper
+# ARCitedPaper
